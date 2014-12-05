@@ -7,12 +7,10 @@ About
 OurHome Server offers users a privacy based home network server which provides:
 
 1. Self hosted email and calendar server based upon samba4/Openchange/Sogo
-
 2. Self hosted webserver/social network based upon joomla cms
-
 3. Self hosted private storage cloud based upon pydio
-
 4. Anonymous caching internet browsing based upon squid/privoxy/tor
-
 5. Server management gui based upon zentyal
+6. Streaming media server based upon rtmpd/daapd/minimserver
+7. Backup server using samba/netatalk
 
