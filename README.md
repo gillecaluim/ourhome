@@ -1,22 +1,13 @@
- ZENTYAL
+ OURHOME
 ==========
-Zentyal Server is open source, released under the  GNU General Public License (GPL) and runs on top of Ubuntu GNU/Linux.
+OurHome Server is open source, released under the  GNU General Public License (GPL) and runs on top of Ubuntu GNU/Linux.
 
 About
 -----
-Zentyal Server offers small and medium businesses (SMBs) a native Linux drop-in replacement for Windows® Small Business Server and Microsoft® Exchange Server.
+OurHome Server offers users a privacy based home network server which provides:
+1. self hosted email and calendar server based upon samba4/Openchange/Sogo
+2. self hosted webserver/social network based upon joomla cms
+3. self hosted private storage cloud based upon pydio
+4. anonymous caching internet browsing based upon squid/privoxy/tor
+5. server management gui based upon zentyal
 
-Download
---------
-[Download](http://trac.zentyal.org/wiki/Download) our latest CD installer or ready to test VM images.
-
-
-Development
------------
-Checkout our [development documentation](http://trac.zentyal.org/wiki/Documentation/Community/Development) to get started with Zentyal development.
-
-
-Bug tracker
------------
-
-Have a bug? Please create a ticket in our [Trac](http://trac.zentyal.org/newticket)
